@@ -6,9 +6,10 @@
   <br>
   
 <div align="center">
-   <a href="https://github.com/MariBaptista">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MariBaptista&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariBaptista&layout=compact&langs_count=6&theme=cobalt"/>
+  <a href="https://github.com/MariBaptista">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MariBaptista&count_private=true&include_all_commits=true&show_icons=true&theme=cobalt&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariBaptista&theme=cobalt&hide_border=false&&layout=compact"/>
+  </a>
 </div>
 
 <div align="center"><br>
