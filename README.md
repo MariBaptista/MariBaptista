@@ -1,7 +1,7 @@
 <div>
   <h1 align="center">Oi, Tudo bem? Meu nome é <i>Marina Baptista<i></h1>
-  <p align="center">Estudo Análise e Desenvolvimento de Sistemas na Universidade Veiga de Almeida - UVA 🍇<br>
-  e estou sempre em busca de novos aprendizados <br>
+  <h3 align="center">Estudo Análise e Desenvolvimento de Sistemas na Universidade Veiga de Almeida - UVA 🍇<br>
+  e estou sempre em busca de novos aprendizados</h3><br>
 </div>
   <br>
   
